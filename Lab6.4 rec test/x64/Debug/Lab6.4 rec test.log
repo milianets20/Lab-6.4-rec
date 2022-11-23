@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Lab6.4 rec test.cpp
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab 6.4 rec.cpp\Lab 6.4 rec\Lab 6.4 rec.cpp(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab 6.4 rec.cpp\Lab 6.4 rec\Lab 6.4 rec.cpp(95): warning C4715: Suma: значение возвращается не при всех путях выполнения
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab 6.4 rec.cpp\Lab 6.4 rec\Lab 6.4 rec.cpp(75): warning C4715: Dobutok: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\kama\OneDrive\Робочий стіл\test\Lab 6.4 rec.cpp\x64\Debug\Lab6.4 rec test.lib и объект C:\Users\kama\OneDrive\Робочий стіл\test\Lab 6.4 rec.cpp\x64\Debug\Lab6.4 rec test.exp
+  Lab6.4 rec test.vcxproj -> C:\Users\kama\OneDrive\Робочий стіл\test\Lab 6.4 rec.cpp\x64\Debug\Lab6.4 rec test.dll

@@ -1,0 +1,5 @@
+﻿  Lab 6.4 rec.cpp
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab 6.4 rec.cpp\Lab 6.4 rec\Lab 6.4 rec.cpp(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab 6.4 rec.cpp\Lab 6.4 rec\Lab 6.4 rec.cpp(75): warning C4715: Dobutok: значение возвращается не при всех путях выполнения
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab 6.4 rec.cpp\Lab 6.4 rec\Lab 6.4 rec.cpp(95): warning C4715: Suma: значение возвращается не при всех путях выполнения
+  Lab 6.4 rec.vcxproj -> C:\Users\kama\OneDrive\Робочий стіл\test\Lab 6.4 rec.cpp\x64\Debug\Lab 6.4 rec.exe
